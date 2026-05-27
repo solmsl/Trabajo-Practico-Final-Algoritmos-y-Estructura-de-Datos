@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mejia\\Downloads\\clases\\tpfinal\\tpfinal.csproj": {}
+    "C:\\Users\\mejia\\Documents\\tp-final-AyEdeDatos\\Trabajo-Practico-Final-Algoritmos-y-Estructura-de-Datos\\tpfinal\\tpfinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mejia\\Downloads\\clases\\tpfinal\\tpfinal.csproj": {
+    "C:\\Users\\mejia\\Documents\\tp-final-AyEdeDatos\\Trabajo-Practico-Final-Algoritmos-y-Estructura-de-Datos\\tpfinal\\tpfinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mejia\\Downloads\\clases\\tpfinal\\tpfinal.csproj",
+        "projectUniqueName": "C:\\Users\\mejia\\Documents\\tp-final-AyEdeDatos\\Trabajo-Practico-Final-Algoritmos-y-Estructura-de-Datos\\tpfinal\\tpfinal.csproj",
         "projectName": "tpfinal",
-        "projectPath": "C:\\Users\\mejia\\Downloads\\clases\\tpfinal\\tpfinal.csproj",
+        "projectPath": "C:\\Users\\mejia\\Documents\\tp-final-AyEdeDatos\\Trabajo-Practico-Final-Algoritmos-y-Estructura-de-Datos\\tpfinal\\tpfinal.csproj",
         "packagesPath": "C:\\Users\\mejia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mejia\\Downloads\\clases\\tpfinal\\obj\\",
+        "outputPath": "C:\\Users\\mejia\\Documents\\tp-final-AyEdeDatos\\Trabajo-Practico-Final-Algoritmos-y-Estructura-de-Datos\\tpfinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mejia\\AppData\\Roaming\\NuGet\\NuGet.Config"
